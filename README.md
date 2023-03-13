@@ -6,6 +6,6 @@
 - 👯 I’m looking to collaborate with other Engineers in a production environment
 - 🤔 I’m looking for help others with technologies 
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: aishtahad@yahoo.com
+- 📫 How to reach me: aishtahad25@gmail.com
 - 😄 Pronouns: He/Him
 
