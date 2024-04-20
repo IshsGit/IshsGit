@@ -9,5 +9,3 @@ Passionate Software Engineer | Full-Stack Developer | Proactive Learner | Innova
 🌞 By day, I'm a problem solver—crafting clean, efficient code that fuels the renewable energy revolution as a Frontend Developer at Continuumcloud. By night, I'm a coding enthusiast, refining my skills and contributing to projects that make a positive impact.
 
 Let's connect and build something great together! Open to collaboration, new ideas, and always ready to code the future. 🌟
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishsgit)](https://github.com/anuraghazra/github-readme-stats)
